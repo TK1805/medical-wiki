@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Medical Wiki Home","tags":["gardenEntry"]}
+dg-publish: true
+dg-home: true
+title: Medical Wiki Home
+tags:
+  - gardenEntry
 ---
-
 
 # 🏥 My Medical Wiki
 
 ようこそ。ここは私の臨床メモ置き場です。
 
 ## 📂 救急・集中治療
-- [[救急/敗血症性ショックにおけるバソプレシン使用プロトコル]]
+- [[敗血症性ショックにおけるバソプレシン使用プロトコル]]
