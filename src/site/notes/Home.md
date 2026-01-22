@@ -10,5 +10,6 @@ tags:
 ようこそ。ここは私の臨床メモ置き場です。
 
 ## 📂 救急・集中治療
-- [[vasopressin]]
+- [[vasopressin|バソプレシン]]
+- [[vasopressin|vasopressin]]
 - [[vasopressin]]
