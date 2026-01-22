@@ -11,5 +11,5 @@ tags:
 
 ## 📂 救急・集中治療
 - [[vasopressin|バソプレシン]]
-- [[vasopressin|vasopressin]]
+- [[emergency/vasopressin|バソプレシン]]
 - [[vasopressin]]
