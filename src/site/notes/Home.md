@@ -12,5 +12,5 @@ tags:
 ## 📂 救急・集中治療
 - [[vasopressin|バソプレシン]]
 - [[emergency/vasopressin|バソプレシン]]
-- [バソプレシン](https://medical-wiki.vercel.app/notes/emergency/vasopressin)
+- [バソプレシン](https://medical-wiki.vercel.app/notes/B_循環器/vasopressin)
 - [[vasopressin]]
