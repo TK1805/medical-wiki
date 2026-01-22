@@ -1,11 +1,8 @@
 ---
 dg-publish: true
-dg-permalink: vasopressin
-title: 敗血症性ショックにおけるバソプレシン使用プロトコル
-tags:
-  - 救急
+title: バソプレシン
 ---
 
-# テスト: バソプレシン
+# テスト成功
 
-これはテスト表示ですよ。
+これが表示されたら成功です。
